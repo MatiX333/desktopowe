@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "przyklad03_wyzwalacz_wlasciwosci/1.0.0": {
+        "runtime": {
+          "przyklad03_wyzwalacz_wlasciwosci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "przyklad03_wyzwalacz_wlasciwosci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

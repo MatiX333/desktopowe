@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kalkulatorczasu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF31059-D4B9-4E7C-8B54-2819DE176DFE}|kalkulatorczasu\\kalkulatorczasu.csproj|e:\\kalkulatorczasu\\kalkulatorczasu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF31059-D4B9-4E7C-8B54-2819DE176DFE}|kalkulatorczasu\\kalkulatorczasu.csproj|solutionrelative:kalkulatorczasu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF31059-D4B9-4E7C-8B54-2819DE176DFE}|kalkulatorczasu\\kalkulatorczasu.csproj|E:\\kalkulatorczasu\\kalkulatorczasu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFF31059-D4B9-4E7C-8B54-2819DE176DFE}|kalkulatorczasu\\kalkulatorczasu.csproj|solutionrelative:kalkulatorczasu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF31059-D4B9-4E7C-8B54-2819DE176DFE}|kalkulatorczasu\\kalkulatorczasu.csproj|e:\\kalkulatorczasu\\kalkulatorczasu\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BFF31059-D4B9-4E7C-8B54-2819DE176DFE}|kalkulatorczasu\\kalkulatorczasu.csproj|solutionrelative:kalkulatorczasu\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 358,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\kalkulatorczasu\\kalkulatorczasu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kalkulatorczasu\\MainWindow.xaml",
+              "ToolTip": "E:\\kalkulatorczasu\\kalkulatorczasu\\MainWindow.xaml*",
+              "RelativeToolTip": "kalkulatorczasu\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T09:39:54.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\kalkulatorczasu\\kalkulatorczasu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "kalkulatorczasu\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\kalkulatorczasu\\kalkulatorczasu\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "kalkulatorczasu\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T09:49:38.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\kalkulatorczasu\\kalkulatorczasu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kalkulatorczasu\\MainWindow.xaml",
+              "ToolTip": "E:\\kalkulatorczasu\\kalkulatorczasu\\MainWindow.xaml*",
+              "RelativeToolTip": "kalkulatorczasu\\MainWindow.xaml*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T09:50:28.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

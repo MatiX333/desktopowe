@@ -1,0 +1,45 @@
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.csproj.AssemblyReference.cache
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\MainWindow.g.cs
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\App.g.cs
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr_MarkupCompile.cache
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr_MarkupCompile.lref
+C:\Users\egzamin\Desktop\szyfr\szyfr\bin\Debug\szyfr.exe.config
+C:\Users\egzamin\Desktop\szyfr\szyfr\bin\Debug\szyfr.exe
+C:\Users\egzamin\Desktop\szyfr\szyfr\bin\Debug\szyfr.pdb
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\MainWindow.baml
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.g.resources
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.Properties.Resources.resources
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.csproj.GenerateResource.cache
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.exe
+C:\Users\egzamin\Desktop\szyfr\szyfr\obj\Debug\szyfr.pdb
+E:\szyfrC\szyfr\szyfr\bin\Debug\szyfr.exe.config
+E:\szyfrC\szyfr\szyfr\bin\Debug\szyfr.exe
+E:\szyfrC\szyfr\szyfr\bin\Debug\szyfr.pdb
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.csproj.AssemblyReference.cache
+E:\szyfrC\szyfr\szyfr\obj\Debug\MainWindow.g.cs
+E:\szyfrC\szyfr\szyfr\obj\Debug\App.g.cs
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr_MarkupCompile.cache
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr_MarkupCompile.lref
+E:\szyfrC\szyfr\szyfr\obj\Debug\MainWindow.baml
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.g.resources
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.Properties.Resources.resources
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.csproj.GenerateResource.cache
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.csproj.CoreCompileInputs.cache
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.exe
+E:\szyfrC\szyfr\szyfr\obj\Debug\szyfr.pdb
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\bin\Debug\szyfr.exe.config
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\bin\Debug\szyfr.exe
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\bin\Debug\szyfr.pdb
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.csproj.AssemblyReference.cache
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\MainWindow.g.cs
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\App.g.cs
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr_MarkupCompile.cache
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr_MarkupCompile.lref
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\MainWindow.baml
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.g.resources
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.Properties.Resources.resources
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.csproj.GenerateResource.cache
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.csproj.CoreCompileInputs.cache
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.exe
+E:\szyfrC\szyfr Mateusz Kochel 4c\szyfr\obj\Debug\szyfr.pdb

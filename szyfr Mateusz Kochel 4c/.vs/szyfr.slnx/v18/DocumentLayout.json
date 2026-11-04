@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE5AAD-CE2B-42EA-AC61-4FC641E969BE}|szyfr\\szyfr.csproj|e:\\szyfrc\\szyfr mateusz kochel 4c\\szyfr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BE5AAD-CE2B-42EA-AC61-4FC641E969BE}|szyfr\\szyfr.csproj|solutionrelative:szyfr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE5AAD-CE2B-42EA-AC61-4FC641E969BE}|szyfr\\szyfr.csproj|E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55BE5AAD-CE2B-42EA-AC61-4FC641E969BE}|szyfr\\szyfr.csproj|solutionrelative:szyfr\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE5AAD-CE2B-42EA-AC61-4FC641E969BE}|szyfr\\szyfr.csproj|E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55BE5AAD-CE2B-42EA-AC61-4FC641E969BE}|szyfr\\szyfr.csproj|solutionrelative:szyfr\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\App.xaml",
+              "RelativeDocumentMoniker": "szyfr\\App.xaml",
+              "ToolTip": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\App.xaml",
+              "RelativeToolTip": "szyfr\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-18T10:50:12.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "szyfr\\MainWindow.xaml",
+              "ToolTip": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\MainWindow.xaml",
+              "RelativeToolTip": "szyfr\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-18T10:38:22.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "szyfr\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\szyfrC\\szyfr Mateusz Kochel 4c\\szyfr\\MainWindow.xaml.cs",
+              "RelativeToolTip": "szyfr\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:38:22.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
