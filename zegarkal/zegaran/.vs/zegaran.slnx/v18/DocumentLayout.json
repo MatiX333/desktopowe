@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\prace\\desktopowe\\zegaran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C620839-44EA-4DE1-95EE-2E934FEFEBC5}|zegaran\\zegaran.csproj|f:\\prace\\desktopowe\\zegaran\\zegaran\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C620839-44EA-4DE1-95EE-2E934FEFEBC5}|zegaran\\zegaran.csproj|solutionrelative:zegaran\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C620839-44EA-4DE1-95EE-2E934FEFEBC5}|zegaran\\zegaran.csproj|F:\\prace\\desktopowe\\zegaran\\zegaran\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C620839-44EA-4DE1-95EE-2E934FEFEBC5}|zegaran\\zegaran.csproj|solutionrelative:zegaran\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\prace\\desktopowe\\zegaran\\zegaran\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zegaran\\MainWindow.xaml",
+              "ToolTip": "F:\\prace\\desktopowe\\zegaran\\zegaran\\MainWindow.xaml",
+              "RelativeToolTip": "zegaran\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-13T11:52:53.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\prace\\desktopowe\\zegaran\\zegaran\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zegaran\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\prace\\desktopowe\\zegaran\\zegaran\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zegaran\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T11:52:52.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

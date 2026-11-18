@@ -1,0 +1,15 @@
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\bin\Debug\kalendarz2.exe.config
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\bin\Debug\kalendarz2.exe
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\bin\Debug\kalendarz2.pdb
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.csproj.AssemblyReference.cache
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\MainWindow.g.cs
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\App.g.cs
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2_MarkupCompile.cache
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2_MarkupCompile.lref
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\MainWindow.baml
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.g.resources
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.Properties.Resources.resources
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.csproj.GenerateResource.cache
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.csproj.CoreCompileInputs.cache
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.exe
+D:\GAME\VisualStudio\kalendarz2\kalendarz2\obj\Debug\kalendarz2.pdb

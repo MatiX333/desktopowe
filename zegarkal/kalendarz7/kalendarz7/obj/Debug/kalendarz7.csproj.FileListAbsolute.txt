@@ -1,0 +1,15 @@
+F:\prace\desktopowe\kalendarz7\kalendarz7\bin\Debug\kalendarz7.exe.config
+F:\prace\desktopowe\kalendarz7\kalendarz7\bin\Debug\kalendarz7.exe
+F:\prace\desktopowe\kalendarz7\kalendarz7\bin\Debug\kalendarz7.pdb
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.csproj.AssemblyReference.cache
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\MainWindow.g.cs
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\App.g.cs
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7_MarkupCompile.cache
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7_MarkupCompile.lref
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\MainWindow.baml
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.g.resources
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.Properties.Resources.resources
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.csproj.GenerateResource.cache
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.csproj.CoreCompileInputs.cache
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.exe
+F:\prace\desktopowe\kalendarz7\kalendarz7\obj\Debug\kalendarz7.pdb

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\prace\\desktopowe\\kalendarz1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56D9A98A-65B3-484B-BA36-6EB1F0B76B99}|kalendarz1\\kalendarz1.csproj|f:\\prace\\desktopowe\\kalendarz1\\kalendarz1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56D9A98A-65B3-484B-BA36-6EB1F0B76B99}|kalendarz1\\kalendarz1.csproj|solutionrelative:kalendarz1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D9A98A-65B3-484B-BA36-6EB1F0B76B99}|kalendarz1\\kalendarz1.csproj|F:\\prace\\desktopowe\\kalendarz1\\kalendarz1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D9A98A-65B3-484B-BA36-6EB1F0B76B99}|kalendarz1\\kalendarz1.csproj|solutionrelative:kalendarz1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\prace\\desktopowe\\kalendarz1\\kalendarz1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kalendarz1\\MainWindow.xaml",
+              "ToolTip": "F:\\prace\\desktopowe\\kalendarz1\\kalendarz1\\MainWindow.xaml",
+              "RelativeToolTip": "kalendarz1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-16T08:47:02.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\prace\\desktopowe\\kalendarz1\\kalendarz1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "kalendarz1\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\prace\\desktopowe\\kalendarz1\\kalendarz1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "kalendarz1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH1SURBVDhP3ZG/axNhGMe/7\u002BXea8z1TWsil9zFiyFFkRJLJsFUCoezIeDg5ODi4CQ42D/AwaWLCO7d3JIQBHHolCxdHCTYFDNI7oc5ohJj7kKu7zlojlYpiqMfeOF93\u002B/Dh\u002BfhIfjJ49ZBOS4Jr3JsSaACbqWnescwSLDIT4Pg/l4ZAG5eWb109fzy89eHX5JGke2ts2/PXu4\u002B/TCdTgEAmqahVqsFAN4ZhhGJRQj8AQC0\u002B\u002BPU52mQOBh64tpZ6Xp5Jcjn83nP933MZjOEYQjXdceapm13Op03lUrF\u002B9HBw7YCAI8qK6VCWn6xu\u002B\u002Beu3dNwdaFJRx5X8E5h23baDQa8H2fV6vVw2QyeXc\u002Bn\u002B8bhhEI2NkcYmdzmF2mn4KjgG/fyGGrkEBCBGRZBmMMsiyDc47RaCQ0m82Lpmk\u002BAXAZAITFLAVYWBM\u002BYkOJ4UyMg3O\u002BiEApRSaTgaqqiMfjQrvdTtbrdREAYouibHo161qDOxuldVkUo28AgCRJ0HUdpVIJxWIRvV7PsSyr0e12nagDy7IwGAwQBL9vjlIKRVGQy\u002BWgqioopVEWCQAgDMPjz7/ihOBf\u002BN8EhBDYtg3TNE89juOc2JS4uDDGPELI21arlSaERAW/wjnHZDLpMcY8HBfouv7etu3b/X7/j2OlUqlA1/UxAHwH\u002BgjDd6w0k2AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-16T08:47:02.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

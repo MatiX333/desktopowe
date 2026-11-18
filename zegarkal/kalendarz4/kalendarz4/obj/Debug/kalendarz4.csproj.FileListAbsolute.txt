@@ -1,0 +1,15 @@
+F:\prace\desktopowe\kalendarz4\kalendarz4\bin\Debug\kalendarz4.exe.config
+F:\prace\desktopowe\kalendarz4\kalendarz4\bin\Debug\kalendarz4.exe
+F:\prace\desktopowe\kalendarz4\kalendarz4\bin\Debug\kalendarz4.pdb
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.csproj.AssemblyReference.cache
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\MainWindow.g.cs
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\App.g.cs
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4_MarkupCompile.cache
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4_MarkupCompile.lref
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\MainWindow.baml
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.g.resources
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.Properties.Resources.resources
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.csproj.GenerateResource.cache
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.csproj.CoreCompileInputs.cache
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.exe
+F:\prace\desktopowe\kalendarz4\kalendarz4\obj\Debug\kalendarz4.pdb
